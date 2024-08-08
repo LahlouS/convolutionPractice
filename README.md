@@ -1,6 +1,6 @@
 ### ConvolutionPractice
 
-A collection of workshops I completed to learn about CNNs during my internship at PMU.
+A collection of workshops I completed to learn about CNNs during my internship at [PARI MUTUEL URBAIN (PMU)](https://www.pmu.fr/).
 
 I did my internship as a Computer Vision Engineer.
 
